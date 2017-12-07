@@ -1,0 +1,18 @@
+{
+  "name": "propuestas-gesyco",
+  "version": "1.0.0",
+  "description": "generador de propuestas",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-pdf": "^1.2.2",
+    "pug": "^2.0.0-rc.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Israel Alfaro",
+  "license": "ISC"
+}

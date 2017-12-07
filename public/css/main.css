@@ -1,0 +1,133 @@
+.form_field{
+  width: 600px;
+  font-size: 18px;
+    color: #243f60;
+    font-family: "Book Antiqua";
+}
+
+.form_button{
+  padding: 10px;
+  width: 200px;
+  font-size: 18px;
+}
+
+h1{
+  color: #243f60;
+  font-family: "Book Antiqua";
+  font-size: 24px;
+}
+
+ul{
+  list-style: none;
+}
+
+td{
+  vertical-align: top;
+  padding-bottom: 30px;
+  padding-right: 10px;
+  color: #243f60;
+  font-family: "Book Antiqua";
+  font-size: 18px;
+}
+
+.logo{
+  left: 50%;
+  width: 500px;
+  margin-left: -250px;
+  position: relative;
+}
+
+.client-logos{
+  position: relative;
+  left: 50%;
+  margin-left: -350px;
+  width: 700px;
+}
+
+.footer{
+  position: relative;
+  left: 50%;
+  margin-left: -350px;
+  width: 700px;
+  padding-top: 150px;
+}
+
+.container{
+  padding: 100px;
+}
+
+.recipient{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: #243f60;
+  font-family: "Book Antiqua";
+  font-size: 18px;
+}
+
+.text-block{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #243f60;
+  font-family: "Book Antiqua";
+  font-size: 18px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.title-block{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: #243f60;
+  font-family: "Book Antiqua";
+  font-size: 18px;
+  text-align: center;
+}
+
+.ul-block{
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #243f60;
+  font-family: "Book Antiqua";
+  font-size: 18px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.signature{
+  padding-top: 100px;
+  left: 50%;
+  width: 500px;
+  margin-left: -150px;
+  position: relative;
+}
+
+.credits-ronald{
+  position: relative;
+  top: -85px;
+  z-index: -1;
+  color: #243f60;
+  font-family: "Book Antiqua";
+  font-size: 18px;
+  text-align: center;
+}
+
+.ronald{
+  font-size: 24px;
+}
+
+.form_gen_wrapper{
+  position: relative;
+  left: 50%;
+  margin-left: -300px;
+  width: 600px;
+  padding: 50px;
+  color: #243f60;
+  font-family: "Book Antiqua";
+  font-size: 18px;
+}
+
+.form_title{
+  text-align: center;
+}

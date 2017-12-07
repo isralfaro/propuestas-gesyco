@@ -1,0 +1,22 @@
+doctype html5
+
+html
+  head
+    title GESYCO | Generador de propuestas
+    link(rel='stylesheet', href='css/main.css')
+    link(rel='shortcut icon' href='favicon.ico' type='image/x-icon')
+    script(type='text/javascript' src='js/jquery.js')
+    script(type='text/javascript' src='js/main.js')
+
+  body
+    div.container
+      div.logo
+        img(src='img/gesyco_logo.png')
+      div.form_gen_wrapper
+        div.form_title
+          h1 Generador de propuestas
+        p ¿Hacia quién va dirigida la propuesta? Ingresa sus datos a continuación
+        form#gen_form
+          input.form_field#biz_field(type='text' placeholder='Nombre de la empresa, e.g. SERVICIOS INFORMATICOS, S.A.')
+          input.form_field#attn_field(type='text' placeholder='Con atención a, e.g. Lic. Juan Pérez')
+          input.form_field#gen_btn(type='submit' value='Generar propuesta')
